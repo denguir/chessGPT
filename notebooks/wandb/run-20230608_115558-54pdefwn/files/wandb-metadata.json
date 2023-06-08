@@ -1,0 +1,124 @@
+{
+    "os": "Linux-5.19.0-43-generic-x86_64-with-glibc2.35",
+    "python": "3.10.6",
+    "heartbeatAt": "2023-06-08T09:56:02.002778",
+    "startedAt": "2023-06-08T09:55:58.231270",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "git@github.com:denguir/chessGPT.git",
+        "commit": "937690b18ffdd0595b6836b3f2944bf5c71a30e3"
+    },
+    "email": "anass.den@gmail.com",
+    "root": "/home/vador/git/chessGPT",
+    "host": "vador",
+    "username": "vador",
+    "executable": "/home/vador/git/chessGPT/venv/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2346.6651875,
+        "min": 2200.0,
+        "max": 3700.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2154.787,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2992.636,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2143.904,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2083.958,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3170.148,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2127.912,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2108.501,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3230.219,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2083.244,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 4166.506,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2083.043,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2082.205,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2906.402,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2060.478,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2200.0,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3188.797,
+            "min": 2200.0,
+            "max": 3700.0
+        }
+    ],
+    "disk": {
+        "total": 899.8312301635742,
+        "used": 302.8925590515137
+    },
+    "gpu": "NVIDIA GeForce RTX 2070",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 2070",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 15.552230834960938
+    }
+}
